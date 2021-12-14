@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 config.py
 config.py.ipynb
-Resources/credits.csv
-Resources/ratings.csv
+credits.csv
+ratings.csv
 
 
 
