@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+config.py
+config.py.ipynb
+Resources/credits.csv
+Resources/ratings.csv
+
+
+
 __pycache__/
 *.py[cod]
 *$py.class
